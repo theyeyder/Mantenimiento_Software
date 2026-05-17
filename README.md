@@ -1,4 +1,4 @@
-# SaludYa - Proyecto Completo Base
+# SaludYa - Proyecto Completo
 
 Proyecto base para SaludYa con:
 - Backend: Node.js + Express + MongoDB
