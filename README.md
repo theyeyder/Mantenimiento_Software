@@ -27,7 +27,7 @@ La consulta de documentos médicos se realiza desde un portal externo usando:
 - Órdenes Médicas
 - Facturación
 
-##  Historias EYDER de arroyo
+##  Historias EYDER Arroyo
 HU1 – Configuración de usuarios
 Como administrador
 Quiero crear usuarios dentro del sistema
@@ -65,7 +65,7 @@ El sistema permite consultar pacientes mediante tipo y número de identificació
 Estado
 Implementada.
 
-## Historias  andres pardo 
+## Historias  Andres Pardo 
 HU5 – Agendamiento de citas médicas
 Como usuario de admisión
 Quiero agendar citas médicas
