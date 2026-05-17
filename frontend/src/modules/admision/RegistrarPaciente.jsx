@@ -152,10 +152,8 @@ export default function RegistrarPaciente() {
       setMensaje("Error en búsqueda");
     }
   };
-
   const guardarPaciente = async () => {
     setMensaje("");
-
     try {
       const dataToSend = {
         ...form,
