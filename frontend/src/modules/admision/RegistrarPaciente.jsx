@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./RegistrarPaciente.css";
 
 const API_URL = "http://localhost:4000/api/pacientes";
 
