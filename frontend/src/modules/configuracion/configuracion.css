@@ -7,7 +7,6 @@
   --primary-dark: #2563eb;
   --primary-light: #60a5fa;
   --primary-gradient: linear-gradient(135deg, var(--primary), var(--primary-dark));
-  
   /* Estados */
   --success: #10b981;
   --success-dark: #059669;
@@ -1144,7 +1143,6 @@
   align-items: center;
   justify-content: center;
 }
-
 .usuario-action-icon-btn:hover {
   background: #e0e7ed;
   transform: translateY(-1px);

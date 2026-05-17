@@ -62,7 +62,6 @@ export default function Configuracion() {
         y: e.clientY - dragOffset.y,
       });
     };
-
     const detenerArrastre = () => setDragging(false);
 
     window.addEventListener("mousemove", moverModal);
