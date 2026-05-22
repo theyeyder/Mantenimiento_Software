@@ -55,7 +55,6 @@ Descripción
 El módulo de admisión permite ingresar datos personales del paciente como identificación, nombres, dirección, teléfono y antecedentes básicos.
 Estado
 Implementada.
- 
 HU4 – Búsqueda de pacientes
 Como usuario de admisión
 Quiero buscar pacientes por documento
